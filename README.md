@@ -13,7 +13,8 @@ Wordpressでグーグルカレンダーを取り込むプラグイン
 name:test pass:test
 
 ##テスト用グーグルカレンダーデータ
-こちらで用意するので自由にデータを追加してください．
+サンプルをもとに適宜追加してください．  
+必要なIDは右クリック→カレンダーの設定から参照できます．
 
 ##その他の必要な情報
 1. スタンドアロンモードはlocalhost/wordpress/wp-content/plugins/google-calendar-widget/examples/stand_alone.htmlでアクセスできる
